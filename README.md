@@ -23,6 +23,7 @@ Execute Django admin and create details for 10 books
 
 ## PROGRAM
 models.py
+
       from django.db import models
       from django.contrib import admin
       class BankLoan(models.Model):
